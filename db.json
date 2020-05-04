@@ -1,0 +1,15 @@
+{
+  "products": [
+    { "id": 1, "code": "B4294971239", "name": "BeaverProduct 4294971239" },
+    { "id": 2, "code": "B4294977123", "name": "BeaverProduct 4294977123" },
+    { "id": 3, "code": "B4294983123", "name": "BeaverProduct 4294983123" }
+  ],
+  "product-locations": [
+    { "id": 1, "product": "B4294977123", "location": "Beaver22_1" },
+    { "id": 2, "product": "B4294971239", "location": "Beaver25_1" },
+    { "id": 3, "product": "B4294977123", "location": "Beaver8_1" },
+    { "id": 4, "product": "B4294971239", "location": "Beaver22_1" },
+    { "id": 5, "product": "B4294971239", "location": "Beaver25_1" },
+    { "id": 6, "product": "B4294971239", "location": "Beaver41_1" }
+  ]
+}
