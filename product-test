@@ -1,3 +1,5 @@
+<script>
     this.http
         .get('https://jsonplaceholder.typicode.com/users')
         .subscribe(payload => console.log(payload));
+</script>
