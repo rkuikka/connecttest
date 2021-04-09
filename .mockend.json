@@ -1,0 +1,23 @@
+{
+  "meta": {},
+  "data": [
+    {
+      "code": "string"
+      "name": "string",
+      "chain": "string",
+      "longitude": "int",
+      "latitude": "int",
+      "address": "string",
+      "region": "string",
+      "city": "string",
+      "postal_code": "int",
+      "currency": "string",
+      "email": "string",
+      "store_net_sales_area": "int",
+      "store_size": "int",
+      "planner_email": "string",
+      "buying_forbidden": "boolean,
+      "shelving_delay": "int"
+    }
+  ]
+}
